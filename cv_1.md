@@ -273,3 +273,5 @@ $( 22^n \in O(n^n) )$
 $( (log_2 n)^2 \in O(2^n) )$
 
 Specifickou funkci, která mění svůj výraz závisle na tom, zda je $( n )$ liché nebo sudé, určujeme podle toho, který z termů si ve většině případů vybere, ale ve skutečnosti se bude chovat jako $( O(n^2 + 2^n) )$.
+
+![functions](cv_1.2.png)
